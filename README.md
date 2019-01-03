@@ -8,3 +8,10 @@ __Source : https://developer.apple.com/documentation__
 https://developer.apple.com/documentation/accelerate
 
 #### __vImage__
+
+- AdjustingTheBrightnessAndContrastOfAnImage
+- BlurringAnImage
+- ConvertingColorImagesToGrayscale
+- RealTimeVideoEffectsWithVImage
+- SpecifyingHistogramsWithVImage
+- StandardizingArbitraryImageFormatsForProcessing
